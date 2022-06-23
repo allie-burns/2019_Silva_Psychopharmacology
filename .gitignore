@@ -1,3 +1,7 @@
+# Mac data storage files
+.DS_Store 
+Thumbs.db
+
 # History files
 .Rhistory
 .Rapp.history
