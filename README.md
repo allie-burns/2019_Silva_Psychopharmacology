@@ -23,11 +23,11 @@ Both the heatmap and the network analyses separatey call a CSV file of cFos dens
 
 - `PearsonCorrelationHeatmaps.R`: For each behavioral paradigm (homecage, context only, recall, extinction) calculate correlation of cFos density for 18 brain regions and build heatmap of correlation values. This outputs heatmaps of the correlations between cFos activation in each of the brain regions during each behavioural paradigm.
 
-![Correlation Heatmap](figure_files/correlation_heatmap.pdf)
+![Correlation Heatmap](figure_files/correlation_heatmap.png)
 
 - `PearsonNetworkPlot.R`: For each behavioral paradigm (homecage, context only, recall, extinction) calculate correlation of cFos density and build correlation plot. This outputs network plots indicating simultaneous cFos activation after each behavioural paradigm. 
 
-![Correlation Network](figure_files/correlation_network.pdf)
+![Correlation Network](figure_files/correlation_network.png)
 
 #### Session info (as of June 23, 2022)
 ```
